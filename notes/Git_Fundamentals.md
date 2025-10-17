@@ -38,6 +38,7 @@
 
 ### Configuración inicial
 ```bash
+git # ver todos los comandos de git
 git --version # conocer la versión de Git que tenemos
 git config --global user.name "Tu Nombre" # establecer el nombre de usuario
 git config --global user.email "tu@correo.com" # establecer el correo electrónico
