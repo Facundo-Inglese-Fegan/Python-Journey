@@ -12,3 +12,4 @@ print(f"Mi número aleatorio es: {number}")
 
 # %%
 print("Fin del Playground.py")
+
