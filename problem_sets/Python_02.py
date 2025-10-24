@@ -9,4 +9,3 @@ my_name = "Facundo"
 greeting = greet(my_name)
 print(greeting)
 
-# %%
